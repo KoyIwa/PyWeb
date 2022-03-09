@@ -1,0 +1,32 @@
+E       assert b'Log In' in b'
+<!doctype html>\n
+<title>Posts - Flaskr</title>\n
+<link rel="stylesheet" href="/static/style.css">\n
+<nav>\n
+  <h1>Flask...ate">Edit</a>\n
+        \n
+      </header>\n
+      <p class="body">test\n
+body</p>\n
+    </article>\n
+    \n
+  \n
+\n
+</section>'
+E        +  where b'
+<!doctype html>\n
+<title>Posts - Flaskr</title>\n
+<link rel="stylesheet" href="/static/style.css">\n
+<nav>\n
+  <h1>Flask...ate">Edit</a>\n
+        \n
+      </header>\n
+      <p class="body">test\n
+body</p>\n
+    </article>\n
+    \n
+  \n
+\n
+</section>
+' = <Response 671 bytes [200 OK]>.data
+
