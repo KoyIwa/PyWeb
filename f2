@@ -1,0 +1,38 @@
+Script started on 2022-03-09 19:45:28+09:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="114" LINES="47"]
+]0;pi@raspberrypi: ~/Flask_project1/flask-tutorial-git/PyWeb[01;32mpi@raspberrypi[00m:[01;34m~/Flask_project1/flask-tutorial-git/PyWeb $[00m git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   f1[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   f1[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mf2[m
+
+]0;pi@raspberrypi: ~/Flask_project1/flask-tutorial-git/PyWeb[01;32mpi@raspberrypi[00m:[01;34m~/Flask_project1/flask-tutorial-git/PyWeb $[00m git add .
+]0;pi@raspberrypi: ~/Flask_project1/flask-tutorial-git/PyWeb[01;32mpi@raspberrypi[00m:[01;34m~/Flask_project1/flask-tutorial-git/PyWeb $[00m git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   f1[m
+	[32mnew file:   f2[m
+
+]0;pi@raspberrypi: ~/Flask_project1/flask-tutorial-git/PyWeb[01;32mpi@raspberrypi[00m:[01;34m~/Flask_project1/flask-tutorial-git/PyWeb $[00m git commit .
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[?1h=[?2004h[1;47r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[47;1H"~/Flask_project1/flask-tutorial-git/PyWeb/.git/COMMIT_EDITMSG" 9 lines, 898964 characters[2;1H# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#[7Cmodified:   f1
+#[7Cnew file:   f2
+#
+[94m~                                                                                                                 [11;1H~                                                                                                                 [12;1H~                                                                                                                 [13;1H~                                                                                                                 [14;1H~                                                                                                                 [15;1H~                                                                                                                 [16;1H~                                                                                                                 [17;1H~                                                                                                                 [18;1H~                                                                                                                 [19;1H~                                                                                                                 [20;1H~                                                                                                                 [21;1H~                                                                                                                 [22;1H~                                                                                                                 [23;1H~                                                                                                                 [24;1H~                                                                                                                 [25;1H~                                                                                                                 [26;1H~                                                                                                                 [27;1H~                                                                                                                 [28;1H~                                                                                                                 [29;1H~ 
